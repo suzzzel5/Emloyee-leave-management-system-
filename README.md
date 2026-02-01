@@ -7,3 +7,7 @@ All application data stores in a MySQL database. The database uses structured ta
 The project uses a standard web technology stack. The frontend uses HTML, CSS, and JavaScript. The backend manages business logic and database communication. The development follows a Vibe Coding approach with focus on speed, clarity, and working features.
 
 This project replaces manual leave tracking with a digital solution. It improves efficiency and transparency in leave management. It suits academic projects and small organizational use.
+
+
+contact : maharjansujal0@gmail.com 
+
